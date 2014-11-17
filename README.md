@@ -47,6 +47,9 @@ Name: Mta-Service-Alerts
  * regexp
   * Eric Chen, Hubert Puszklewicz 
 	* 6/regexp/Hubert-Eric
+ * decorator
+  * Eric Chen (absent so no partner)
+  	* https://github.com/ezchen/mongo-login-decorator.git
 
 
 
