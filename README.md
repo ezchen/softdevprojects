@@ -6,6 +6,15 @@ Period 6
 
 ## Main Projects
 
+### Final Project (Breadcrumbs)
+#### Justin Kim, Genji Noguchi
+#### Description
+Name: Breadcrumbs
+
+- social media/location based app
+- user can drop a "crumb" to save notes about a place.
+- user can view previously dropped crumbs, and nearby crumbs dropped by other people
+
 ### Language Interpreter/Data Scraping
 #### Brian Sapozhnikov, Cooper Weaver, Aaron Mortenson
 #### Description
@@ -50,6 +59,9 @@ Name: Mta-Service-Alerts
  * decorator
   * Eric Chen (absent so no partner)
   	* https://github.com/ezchen/mongo-login-decorator.git
+ * invisible cow (Avoid the Invisible duck)
+ * Eric Chen, Justin Kim
+ 	* 6/invisible-cow/justin_eric
 
 
 
