@@ -14,6 +14,7 @@ Name: Breadcrumbs
 - social media/location based app
 - user can drop a "crumb" to save notes about a place.
 - user can view previously dropped crumbs, and nearby crumbs dropped by other people
+#### https://github.com/breadcrumbs-app/breadcrumbs.git
 
 ### Language Interpreter/Data Scraping
 #### Brian Sapozhnikov, Cooper Weaver, Aaron Mortenson
