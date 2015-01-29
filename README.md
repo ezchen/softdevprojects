@@ -15,6 +15,7 @@ Name: Breadcrumbs
 - user can drop a "crumb" to save notes about a place.
 - user can view previously dropped crumbs, and nearby crumbs dropped by other people
 #### https://github.com/breadcrumbs-app/breadcrumbs.git
+Link to website: http://bc.jstn.kim:3000/
 
 ### Language Interpreter/Data Scraping
 #### Brian Sapozhnikov, Cooper Weaver, Aaron Mortenson
